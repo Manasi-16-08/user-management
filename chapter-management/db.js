@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const connectDB = async () => {
     try {
-        await mongoose.connect('mongodb+srv://manasivtawade:manasi01@chapter-api-01.owh3b.mongodb.net/Chapters?retryWrites=true&w=majority&appName=Chapter-API-01', {
+        await mongoose.connect('URI', {
                     });
         console.log('MongoDB connected successfully');
     } catch (err) {
@@ -12,3 +12,4 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+

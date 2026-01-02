@@ -38,10 +38,15 @@ The project demonstrates fundamental web development skills, including structure
 ## Project Structure
 
 user-chapter-management/
+
 ├── user-management/ # All user-related files and modules
+
 ├── chapter-management/ # All chapter-related files and modules
+
 ├── index.html / main.js # Entry point files (depending on setup)
+
 ├── README.md # Project documentation
+
 └── .gitignore
 
 

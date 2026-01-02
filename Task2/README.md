@@ -1,5 +1,4 @@
-#Task2 
-#Chapters API
+# Chapters API
 
 A simple API for managing chapters. The API allows you to create new chapters and fetch existing chapters with pagination.
 
@@ -155,3 +154,21 @@ Error: "400 Bad Request": Ensure you are sending all required fields (title, con
 3. **API Documentation**: Details about the `POST` and `GET` endpoints, with example requests and responses.
 4. **Folder Structure**: A description of the project file organization.
 5. **Troubleshooting**: Some common errors and solutions.
+
+### Contributions
+
+-Contributions are welcome. To contribute:
+
+-Fork this repository.
+
+-Create a new feature branch.
+
+-Make your changes and commit them with clear messages.
+
+-Submit a Pull Request for review.
+
+### Author
+
+Manasi Tawade
+
+GitHub: https://github.com/Manasi-16-08
